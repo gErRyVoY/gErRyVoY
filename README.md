@@ -14,7 +14,7 @@
 - 📫 How to reach me **omvage.2@gmail.com**
 
 - 🔭 I’m currently working on **[Eco-Directory](https://gerryvoy.github.io/)** 👈 (click to see)
-<p align="left"><a href="https://www.buymeacoffee.com/gErRyVoY"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gErRyVoY" /></a></p><br/><br/>
+<p align="left"><a href="https://www.buymeacoffee.com/gErRyVoY"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gErRyVoY" /></a></p><br/><br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p><br/><br/>
+</p><br/>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerryvoy&show_icons=true&locale=en&layout=compact" alt="gerryvoy" /></p>
 
