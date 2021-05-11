@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **[Python](https://www.python.org/)** / **[Django](https://www.djangoproject.com/)** / **[Vue.js](https://vuejs.org/)**
 
-- 👨‍💻 All of my projects are available at [https://gerryvoy.github.io/](https://gerryvoy.github.io/) 🤣😋
+- 👨‍💻 All of my projects are available at **[https://gerryvoy.github.io/](https://gerryvoy.github.io/)** 🤣😋
 
 - 💬 Ask me about **me, and other things... why not?**
 
