@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omvage.2@gmail.com**
 
-- 🔭 I’m currently working on [Eco-Directory](https://gerryvoy.github.io/) 👈 (click to see)
+- 🔭 I’m currently working on **[Eco-Directory](https://gerryvoy.github.io/)** 👈 (click to see)
 <p align="left"><a href="https://www.buymeacoffee.com/gErRyVoY"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gErRyVoY" /></a></p><br/><br/>
 
 <h3 align="left">Languages and Tools:</h3>
