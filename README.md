@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gerardo, Jerry or Gerry Voy</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Python** / **Django** / **Vue.js**
+- 🌱 I’m currently learning **[Python](https://www.python.org/)** / **[Django](https://www.djangoproject.com/)** / **[Vue.js](https://vuejs.org/)**
 
-- 👯 I’m looking to collaborate on **Python / Django / Vue.js projects**
+- 👯 I’m looking to collaborate on **[Python](https://www.python.org/)** / **[Django](https://www.djangoproject.com/)** / **[Vue.js](https://vuejs.org/)** **projects**
 
-- 🤝 I’m looking for help with **Python** / **Django** / **Vue.js**
+- 🤝 I’m looking for help with **[Python](https://www.python.org/)** / **[Django](https://www.djangoproject.com/)** / **[Vue.js](https://vuejs.org/)**
 
 - 👨‍💻 All of my projects are available at [https://gerryvoy.github.io/](https://gerryvoy.github.io/) 🤣😋
 
@@ -31,7 +31,7 @@
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+</p><br/><br/>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerryvoy&show_icons=true&locale=en&layout=compact" alt="gerryvoy" /></p>
 
